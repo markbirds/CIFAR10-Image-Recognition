@@ -1,7 +1,7 @@
 ## CIFAR10 Image Recognition
 
 ### Target Classes
-```
+
 * airplane
 * automobile
 * bird
@@ -12,4 +12,3 @@
 * horse
 * ship
 * truck
-```
